@@ -14,7 +14,7 @@ Este repositorio contiene un proyecto de análisis de información, tratamiento 
 
 A continuación, encontrarás capturas de pantalla de algunas de las visualizaciones y análisis realizados en Power BI:
 
-- ![PBI-1](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/e597eb5f-de2b-433c-b2d7-5933b9bd27c8)
-- ![PBI-2](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/dcf33091-4f87-4d5a-9dfb-61393691582b)
-- ![PBI-3](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/89d1d892-2585-413d-b5b2-a5fa6c64bc32)
+![PBI-1](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/e597eb5f-de2b-433c-b2d7-5933b9bd27c8)
+![PBI-2](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/dcf33091-4f87-4d5a-9dfb-61393691582b)
+![PBI-3](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/89d1d892-2585-413d-b5b2-a5fa6c64bc32)
 
