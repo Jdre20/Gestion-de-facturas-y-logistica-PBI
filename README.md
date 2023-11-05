@@ -14,8 +14,6 @@ Este repositorio contiene un proyecto de análisis de información, tratamiento 
 
 A continuación, encontrarás capturas de pantalla de algunas de las visualizaciones y análisis realizados en Power BI:
 
-- [Captura de pantalla 1](![PBI-1](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/e597eb5f-de2b-433c-b2d7-5933b9bd27c8)
-- [Cap-1] (![PBI-1](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/9b5ac5e9-8910-4d52-8a8f-651a1c7e15a3))
-
-- [Captura de pantalla 2](capturas/captura2.png)
-- [Captura de pantalla 3](capturas/captura3.png)
+- [Cap 1](![PBI-1](https://github.com/Jdre20/Gestion-de-facturas-y-logistica-PBI/assets/109992025/e597eb5f-de2b-433c-b2d7-5933b9bd27c8)
+- [Cap 2](capturas/captura2.png)
+- [Cap 3](capturas/captura3.png)
